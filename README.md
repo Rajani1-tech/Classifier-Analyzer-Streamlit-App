@@ -4,15 +4,20 @@
 🔍 Project Overview:
 I recently explored classification using three different classifiers (KNN, SVM, Random Forest) on three diverse datasets (Iris, Wine, Breast Cancer) to analyze their performance and uncover insights. Here's a brief overview:
 
+
 🛠️ Tools Used:
 - Streamlit for building an interactive user interface.
 - scikit-learn for machine learning tasks.
 - Python for coding and data manipulation.
+- 
 
 📊 Data Visualization:
 I used Streamlit to create an interactive visualization that helps understand the dataset distribution. Check it out in the section below!
 
+
 💡 This project demonstrates the power of data science in making informed decisions. Feel free to explore the code and results on my profile!
+
+
 
 
 
